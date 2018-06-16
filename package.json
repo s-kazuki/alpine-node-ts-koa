@@ -18,7 +18,6 @@
   "author": "S-Kazuki<contact@revoneo.com>",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.254.1",
     "bcryptjs": "^2.4.3",
     "jsonwebtoken": "^8.2.2",
     "koa": "^2.5.1",
