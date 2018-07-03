@@ -2,7 +2,7 @@ FROM node:8.11-alpine
 
 LABEL maintainer="S-Kazuki<contact@revoneo.com>"
 
-ENV APP_ROOT=/node
+ENV APP_ROOT=/node/
 
 WORKDIR $APP_ROOT
 
